@@ -1,0 +1,12 @@
+*.o
+*.out
+*.exe
+a.out
+lexer
+addressbook
+stego
+mp3tag
+inverted_search
+temp.mp3
+__MACOSX/
+.DS_Store
